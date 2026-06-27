@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import url("/css/webflow.css");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+/* Hide Webflow "Made in Webflow" badge injected by their JS */
+.w-webflow-badge,
+.brix-badges-wrapper {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+/* Webflow nav: full-width mobile menu anchored to header bar (matches HTML) */
+@media screen and (max-width: 991px) {
+  .header.w-nav {
+    position: relative;
+  }
+
+  .header.w-nav .w-nav-menu[data-nav-menu-open] {
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-height: calc(100dvh - 80px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+[id] {
+  scroll-margin-top: 96px;
+}
+
+/* Responsive images in use cases section */
+.cases-v2-image---01,
+.cases-v2-image---02 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

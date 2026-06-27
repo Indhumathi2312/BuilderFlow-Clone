@@ -15,7 +15,7 @@ export default function Footer() {
               <div>
                 <div className="mg-bottom-4xl mg-bottom-3xs-tablet">
                   <a
-                    href="/home-pages/home-v1"
+                    href="#hero"
                     className="logo-link w-inline-block"
                   >
                     <div data-wf--ui-element---logo-theme--logo---theme="is-dark">
@@ -97,7 +97,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/"
+                      href="#hero"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -110,7 +110,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/home-pages/home-v1"
+                      href="#hero"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -123,7 +123,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/home-pages/home-v2"
+                      href="#hero"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -136,7 +136,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/home-pages/home-v3"
+                      href="#hero"
                       aria-current="page"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block w--current"
                     >
@@ -150,7 +150,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/company-pages/about"
+                      href="#features"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -178,7 +178,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/blog-pages/blog-v1"
+                      href="#blog"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -191,7 +191,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/blog-pages/blog-v2"
+                      href="#blog"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -204,7 +204,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/blog-pages/blog-v3"
+                      href="#blog"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
@@ -302,7 +302,7 @@ export default function Footer() {
                     <a
                       data-wf--ui-element---link-global--link---theme="is-neutral-light"
                       data-w-id="b673f9ca-2d20-d9f3-6325-ec22a514e710"
-                      href="/integrations-pages/integrations"
+                      href="#integrations"
                       className="link w-variant-86cd9cc5-da44-1172-1e87-a5ba7c8c61c4 w-inline-block"
                     >
                       <div
